@@ -3,7 +3,7 @@
 \*-----------------------------------*/
 
 /**
- * copyright 2022 codewithsadee
+ * copyright 2024 HeloDelivery
  */
 
 
@@ -229,7 +229,7 @@ body.active { overflow: hidden; }
   height: 1px;
   transform: translate(-50%, 51%) scale(var(--scale, 1));
   border-radius: 50%;
-  background-color: var(--rich-black-fogra-29);
+  background-color: rgba(75, 182, 231, 0.993);
   z-index: -1;
   transition: var(--transition-2);
 }
