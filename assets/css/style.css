@@ -604,7 +604,7 @@ body.active { overflow: hidden; }
 .promo-card:hover :is(.card-title, .card-text) { color: var(--white); }
 
 .promo-card .card-title {
-  margin-block: 15px;
+  margin-block: 1px;
   transition: var(--transition-1);
 }
 
